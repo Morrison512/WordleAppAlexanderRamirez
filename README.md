@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<WordleAppAlexanderRamirez.gif' title='Wordle App Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WordleAppAlexanderRamirez.gif' title='Wordle App Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
